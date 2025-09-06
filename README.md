@@ -1,10 +1,10 @@
 ## 🎓 Certificates
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/e0d009f1-6fb4-483f-9fbc-1c34f5c7e8a5" title="Professional Cloud Architect Certification"><img src="https://images.credly.com/size/80x80/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="Professional Cloud Architect Certification" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/c7a27900-1240-48af-9fea-09ba8f7e2fb7" title="Red Hat Certified System Administrator (RHCSA)"><img src="https://images.credly.com/size/80x80/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="Red Hat Certified System Administrator (RHCSA)" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/19192bf9-c3e3-4741-bcbc-f56c79d2a85d" title="CAPA: Certified Argo Project Associate"><img src="https://images.credly.com/size/80x80/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="CAPA: Certified Argo Project Associate" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/7fb8fb98-d379-47a7-a76a-2e0a1ce02faa" title="OTCA: OpenTelemetry Certified Associate"><img src="https://images.credly.com/size/80x80/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA: OpenTelemetry Certified Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/e0d009f1-6fb4-483f-9fbc-1c34f5c7e8a5" title="Professional Cloud Architect Certification"><img src="https://images.credly.com/size/160x160/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="Professional Cloud Architect Certification" width="160" height="160"></a>
+<a href="https://www.credly.com/badges/c7a27900-1240-48af-9fea-09ba8f7e2fb7" title="Red Hat Certified System Administrator (RHCSA)"><img src="https://images.credly.com/size/160x160/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="Red Hat Certified System Administrator (RHCSA)" width="160" height="160"></a>
+<a href="https://www.credly.com/badges/19192bf9-c3e3-4741-bcbc-f56c79d2a85d" title="CAPA: Certified Argo Project Associate"><img src="https://images.credly.com/size/160x160/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="CAPA: Certified Argo Project Associate" width="160" height="160"></a>
+<a href="https://www.credly.com/badges/7fb8fb98-d379-47a7-a76a-2e0a1ce02faa" title="OTCA: OpenTelemetry Certified Associate"><img src="https://images.credly.com/size/160x160/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA: OpenTelemetry Certified Associate" width="160" height="160"></a>
 <!--END_SECTION:badges-->
 
 <!--
